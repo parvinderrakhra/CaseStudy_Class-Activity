@@ -42,7 +42,7 @@ internet processing can provide. It also demonstrates how such processing can di
 commission-based business model of other, more established on-line brokerages, such as Fidelity or
 Charles Schwab. And on-line stock trading is an enormous business, serving as one of the two killer apps
 that powered the growth of the internet in the 1990’s (the other was internet pornography).
-Not surprisingly, then, RobinHood’s growth has been spectacular. Even though it was founded in 2013, it has more customers than E*Trade Financial, which was founded in 1982. Jan Hammer of Index
+*Not surprisingly, then, RobinHood’s growth has been spectacular.* Even though it was founded in 2013, it has more customers than E*Trade Financial, which was founded in 1982. Jan Hammer of Index
 Ventures, an early investor, thinks that RobinHood will indeed execute on Bhatt’s vision, stating
 “They’re going to be the Amazon of financial services.”
 Certainly, there is much in financial services that is ripe for disruption. Why do average credit card
@@ -51,6 +51,8 @@ additional transaction fees from merchants? OK, these interest charges and fees 
 card fraud, but the incumbents are not doing as much as they could to mitigate it (like eliminating the
 deluge of unsolicited credit card mail-in offerings that criminals can so easily use to generate phony
 accounts).
+
+
 
 
 
