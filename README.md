@@ -55,6 +55,6 @@ accounts).
 
 # Repository:  
 
-**[Robinhood](robinhood.com)**
+**[Robinhood](https://robinhood.com/us/en/)**
 
 
